@@ -1,0 +1,10 @@
+Package: logitechmediaserverlibs
+Version: 0.1
+Section: main
+Priority: optional
+Architecture: all
+Depends: logitechmediaserver,lame,sqlite3,mysql-server,libdbd-mysql-perl,libdbix-class-perl,libclass-dbi-loader-perl,libclass-dbi-perl,libclass-dbi-plugin-perl,libclass-dbi-mysql-perl,libdigest-sha1-perl,libev-perl,libanyevent-perl,libaudio-scan-perl,libcache-cache-perl,libfile-bom-perl,libfile-next-perl,libfile-which-perl,libimage-scale-perl,libimage-base-bundle-perl,libjson-xs-perl,liblog-log4perl-perl,libproc-background-perl,libdbix-class-perl,libdbix-class-schema-loader-perl
+Installed-Size:
+Maintainer: Jesse Mullan
+Description: A metapackage for Daeng
+ Various requirements for installing logitech media server
